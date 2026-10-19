@@ -1,12 +1,10 @@
-# ARUK
+# ANTI:AMPHE
 
-![banner with collection of posters i have made with a headshot of me in the centre](https://github.com/alexrayneruk/.github/blob/main/design%20dot%20banner%202%20but%20for%20main%20site.png?raw=true)
+![red banner with the amphe logo in middle that uses lots of amphe textures](https://github.com/antiamphe/.github/blob/main/antiamphe.png?raw=true)
 
-## Who is Alexa Rayner?
+## What Is AntiAmphe?
 
-Alexa Rayner is a graphic designer from the South West of England. Alexa is also known by the name "Lil Bama", her music project from 2021-present where she makes meme songs with their friends.
-
-Alexa now focuses on graphic design, specifically cover art and poster design, and also sometimes creates a variety of video projects on her YouTube channel, "Alex Rayner", where she created videos such as "THEBALLMAN" and "Spiderman goes to Burger King".
+AntiAmphe is a subsection of the Amphe Project usually done by Alexa Rayner, but not limited to.
 
 ## What is this github page for?
 
@@ -14,6 +12,4 @@ This page serves to host anything I create such as fonts or anything else I deem
 
 ## Where can I find her work?
 
-You probably found this through that site but just in-case [this is the link to my portfolio](https://www.alexrayner.uk/) and [these are my other social media links](https://www.alexrayner.uk/links). You can also find me at [Club Dot](https://club.alexrayner.uk/)
-
-![Alex Rayner UK Logos so so many in this little footer](https://github.com/alexrayneruk/.github/blob/main/alex%20rayner%20logo%20footer.png?raw=true)
+You probably found this through that site but just in-case [this is the link to my portfolio](https://alexa.amphe.co.uk/) and [these are my other social media links](https://alexa.amphe.co.uk/links). You can also find me at [Club Dot](https://club.amphe.co.uk/)
