@@ -1,4 +1,4 @@
-# ANTI:AMPHE
+# AntiAmphe
 
 ![red banner with the amphe logo in middle that uses lots of amphe textures](https://github.com/antiamphe/.github/blob/main/antiamphe.png?raw=true)
 
